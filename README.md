@@ -5,6 +5,7 @@
 ### Student Programmer · Web Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=JavaScript+%26+Node.js;Building+web+apps;Always+learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Mahasiswa;Membangun+aplikasi+web+yang+berguna;JavaScript+%26+Node.js+Enthusiast;Suka+traveling+%26+berburu+kuliner+%F0%9F%8D%9C" />
 
 Portfolio: [akbarrofiqhidayat.github.io](https://akbarrofiqhidayat.github.io) · Email: akbarrofiqhidayat@gmail.com
 
