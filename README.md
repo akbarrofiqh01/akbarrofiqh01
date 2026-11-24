@@ -14,7 +14,7 @@ Portfolio: [akbarrofiqhidayat.github.io](https://akbarrofiqhidayat.github.io) ·
 
 ## Tentang Saya
 
-Full-stack developer sekaligus mahasiswa yang berbasis di Indonesia. Saya membagi waktu antara membangun aplikasi web untuk kebutuhan nyata di **Fourkeys Tech** dan menyelesaikan perkuliahan, jadi menyelesaikan fitur dan belajar hal baru sama-sama jadi rutinitas harian.
+Full-stack developer sekaligus mahasiswa yang berbasis di Indonesia. Saya membagi waktu antara membangun aplikasi web untuk kebutuhan nyata di **Fourkeys Tech** dan menyelesaikan perkuliahan, jadi menyelesaikan fitur dan belajar hal baru sama-sama menjadi rutinitas harian.
 
 Pekerjaan saya mencakup seluruh lapisan aplikasi: merancang antarmuka, membangun logika backend, sampai menghubungkannya dengan database. Saya senang mengubah masalah dunia nyata yang berantakan menjadi sistem yang rapi dan benar-benar dipakai, mulai dari sistem informasi akademik, manajemen pegawai, sampai aplikasi internal perusahaan.
 
@@ -41,6 +41,10 @@ Kalau sedang tidak di depan keyboard, kemungkinan besar saya sedang:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
