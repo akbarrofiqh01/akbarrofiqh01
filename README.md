@@ -14,7 +14,17 @@ Portfolio: [akbarrofiqhidayat.github.io](https://akbarrofiqhidayat.github.io) ·
 
 ## About
 
-Mahasiswa yang suka membangun aplikasi web. Fokus di JavaScript, sedang belajar membuat sistem informasi seperti SIAKAD dan SIM Pegawai.
+Full-stack developer and university student based in Indonesia. I split my time between building real-world web applications at **Fourkeys Tech** and keeping up with my studies, so shipping features and learning new things are both part of my daily routine.
+
+My work covers the whole stack: designing the interface, building the backend logic, and connecting it all to a database. I enjoy turning messy, real-world problems into clean systems that people actually use, from information systems and employee management to internal company tools.
+
+## Beyond the Code
+
+When I'm not at my keyboard, I'm probably:
+
+- ✈️ **Traveling**: exploring new cities, hidden spots, and local culture
+- 🍜 **Hunting for food**: from street-side stalls to regional specialties, I believe every place is best understood through its food
+- ☕ **Recharging with coffee**: the fuel behind most of my late-night commits
 
 ## Currently
 
