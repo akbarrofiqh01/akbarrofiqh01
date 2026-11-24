@@ -6,33 +6,36 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=JavaScript+%26+Node.js;Building+web+apps;Always+learning" />
 
-Portfolio: [akbarrofiqhidayat.github.io](https://akbarrofiqhidayat.github.io) · Email: emailkamu@gmail.com
+Portfolio: [akbarrofiqhidayat.github.io](https://akbarrofiqhidayat.github.io) · Email: akbarrofiqhidayat@gmail.com
 
 </div>
 
 ---
 
-## About
+## Tentang Saya
 
-Full-stack developer and university student based in Indonesia. I split my time between building real-world web applications at **Fourkeys Tech** and keeping up with my studies, so shipping features and learning new things are both part of my daily routine.
+Full-stack developer sekaligus mahasiswa yang berbasis di Indonesia. Saya membagi waktu antara membangun aplikasi web untuk kebutuhan nyata di **Fourkeys Tech** dan menyelesaikan perkuliahan, jadi menyelesaikan fitur dan belajar hal baru sama-sama jadi rutinitas harian.
 
-My work covers the whole stack: designing the interface, building the backend logic, and connecting it all to a database. I enjoy turning messy, real-world problems into clean systems that people actually use, from information systems and employee management to internal company tools.
+Pekerjaan saya mencakup seluruh lapisan aplikasi: merancang antarmuka, membangun logika backend, sampai menghubungkannya dengan database. Saya senang mengubah masalah dunia nyata yang berantakan menjadi sistem yang rapi dan benar-benar dipakai, mulai dari sistem informasi akademik, manajemen pegawai, sampai aplikasi internal perusahaan.
 
-## Beyond the Code
+## Di Luar Layar Laptop
 
-When I'm not at my keyboard, I'm probably:
+Kalau sedang tidak di depan keyboard, kemungkinan besar saya sedang:
 
-- ✈️ **Traveling**: exploring new cities, hidden spots, and local culture
-- 🍜 **Hunting for food**: from street-side stalls to regional specialties, I believe every place is best understood through its food
-- ☕ **Recharging with coffee**: the fuel behind most of my late-night commits
+- ✈️ **Traveling**: menjelajahi kota baru, tempat tersembunyi, dan budaya lokal
+- 🍜 **Berburu kuliner**: dari warung pinggir jalan sampai makanan khas daerah, buat saya setiap tempat paling mudah dikenali lewat makanannya
+- ☕ **Ngopi**: bahan bakar utama di balik banyak commit larut malam
 
-## Currently
+
+## Saat Ini
 
 | | |
 |---|---|
-| **Building** | Greendesk di Fourkeys Tech |
-| **Learning** | Backend, REST API, database |
-| **Open to** | Freelance dan kolaborasi |
+| **Sedang dikerjakan** | Greendesk di Fourkeys Tech |
+| **Sedang kuliah** | Informatika / Teknik Informatika |
+| **Sedang dipelajari** | Arsitektur backend, REST API, desain database |
+| **Di luar layar** | Traveling dan wisata kuliner 🍛 |
+| **Terbuka untuk** | Proyek freelance dan kolaborasi |
 
 ## Tech Stack
 
